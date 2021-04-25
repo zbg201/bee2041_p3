@@ -1,0 +1,391 @@
+Id,Label,isNoble
+0,Viserys II Targaryen,0
+1,Walder Frey,1
+2,Aemma Arryn,1
+3,Sylva Santagar,1
+4,Tommen Baratheon,0
+5,Valarr Targaryen,1
+6,Viserys I Targaryen,0
+7,Ysilla,0
+8,Joffrey Baratheon,0
+9,Laenor Velaryon,1
+10,Leobald Tallhart,1
+11,Maegor I Targaryen,0
+12,Margaery Tyrell,1
+13,Naerys Targaryen,1
+14,Quellon Greyjoy,1
+15,Rhaegel Targaryen,1
+16,Rhaena Targaryen (daughter of Daemon),1
+17,Rhaenys Targaryen,1
+18,Rhaenys Targaryen (daughter of Aemon),1
+19,Rhonda Rowan,0
+20,Robb Stark,0
+21,Rodrik Stark (son of Beron),0
+22,Ryk,0
+23,Serra,0
+24,Sharna,0
+25,Stafford Lannister,1
+26,Stannis Baratheon,0
+27,Tristifer V Mudd,0
+28,Walda Frey (daughter of Merrett),0
+29,Aegon I Targaryen,0
+30,Aegon II Targaryen,0
+31,Aegon IV Targaryen,0
+32,Aegon III Targaryen,0
+33,Aegon Targaryen (son of Aenys I),1
+34,Aenys I Targaryen,0
+35,Aerys I Targaryen,0
+36,Aerys II Targaryen,0
+37,Alicent Hightower,1
+38,Alys Arryn,0
+39,Alyn Velaryon,1
+40,Alysanne Hightower,0
+41,Arrec Durrandon,0
+42,Baelor Targaryen (son of Daeron II),1
+43,Brandon Stark (Burner),0
+44,Brandon Stark (son of Cregan),1
+45,Catelyn Stark,1
+46,Daella Targaryen (daughter of Jaehaerys I),1
+47,Daenerys Targaryen (daughter of Aegon IV),1
+48,Daeron I Targaryen,0
+49,Daena Targaryen,1
+50,Daeron Targaryen (son of Maekar I),1
+51,Daeron II Targaryen,0
+52,Damon Lannister (lord),1
+53,Damon Lannister (son of Jason),0
+54,Denyse Hightower,0
+55,Donella Hornwood,1
+56,Durran,0
+57,Dyah,0
+58,Duncan Targaryen,1
+59,Elaena Targaryen,1
+60,Elys Waynwood,1
+61,Erik Ironmaker,1
+62,Euron Greyjoy,0
+63,Ferny,0
+64,Gerold Lannister,1
+65,Gowen Baratheon,0
+66,Halys Hornwood,1
+67,Harwyn Hoare,0
+68,Husband,0
+69,Jaehaera Targaryen,1
+70,Jaehaerys II Targaryen,0
+71,Jaehaerys I Targaryen,0
+72,Jeyne Fossoway,0
+73,Jeyne Westerling (wife of Maegor I),1
+74,Jeyne Westerling,1
+75,Joanna Lannister,1
+76,Jon Cupps,1
+77,Leo Tyrell (son of Victor),1
+78,Leyla Hightower,0
+79,Lia Serry,0
+80,Luthor Tyrell (son of Moryn),1
+81,Lysa Meadows,0
+82,Nella,0
+83,Nissa Nissa,0
+84,Olene Tyrell,0
+85,Aelinor Penrose,1
+86,Alys Frey,0
+87,Alyssa Blackwood,1
+88,Amarei Crakehall,0
+89,Ambrose Butterwell,1
+90,Antario Jast,1
+91,Annara Farring,1
+92,Arthur Ambrose,1
+93,Artos Stark,0
+94,Arwood Frey,1
+95,Baelor Hightower,1
+96,Balman Byrch,1
+97,Bellena Hawick,0
+98,Benfrey Frey,1
+99,Berena Hornwood,0
+100,Beron Stark,1
+101,Bethany Redwyne,1
+102,Bethany Rosby,1
+103,Betharios of Braavos,0
+104,Carolei Waynwood,0
+105,Cregan Stark,1
+106,Cyrenna Swann,0
+107,Dafyn Vance,1
+108,Darlessa Marbrand,0
+109,Danwell Frey,1
+110,Deana Hardyng,0
+111,Delena Florent,0
+112,Denys Darklyn,1
+113,Desmond Redwyne,1
+114,Dickon Tarly,0
+115,Edwyle Stark,1
+116,Eleanor Mooton,0
+117,Elyana Vypren,0
+118,Elyn Norridge,0
+119,Ermesande Hayford,1
+120,Flement Brax,1
+121,Gareth Clifton,1
+122,Garse Goodbrook,1
+123,Gawen Westerling,1
+124,Gunthor Hightower,1
+125,Hosman Norcross,1
+126,Jammos Frey,1
+127,Janna Tyrell,0
+128,Jason Lannister,1
+129,Jeyne Beesbury,0
+130,Jeyne Darry,0
+131,Jeyne Lydden,0
+132,Jon Wylde,1
+133,Jonnel Stark,1
+134,Jyana,0
+135,Jyanna Frey,0
+136,Kyra Frey,0
+137,Lanna Lannister,0
+138,Leo Blackbar,1
+139,Leona Woolfield,0
+140,Leonette Fossoway,1
+141,Leonella Lefford,0
+142,Leslyn Haigh,1
+143,Lucias Vypren,1
+144,Luthor Tyrell,1
+145,Alys Karstark,0
+146,Cleos Frey,1
+147,Hosteen Frey,1
+148,Lyonel Frey,1
+149,Lyonel Strong,1
+150,Lythene Frey,0
+151,Maegelle Frey,0
+152,Margot Lannister,1
+153,Mariya Darry,0
+154,Maron Martell,1
+155,Marsella Waynwood,0
+156,Melesa Crakehall,0
+157,Melara Crane,0
+158,Melessa Florent,0
+159,Melwyn Sarsfield,1
+160,Mina Tyrell,0
+161,Morya Frey,1
+162,Munda,0
+163,Mylenda Caron,0
+164,Olymer Tyrell,1
+165,Ossifer Plumm,1
+166,Pate of the Blue Fork,1
+167,Perriane Frey,0
+168,Raymund Frey,1
+169,Rhea Royce,1
+170,Rhea Florent,0
+171,Rodwell Stark,1
+172,Rolland Uffering,1
+173,Rycherd Crane,1
+174,Ryella Royce,0
+175,Rylene Florent,0
+176,Ryon Allyrion,1
+177,Sallei Paege,0
+178,Sarya Whent,1
+179,Serala,1
+180,Shella Whent,1
+181,Shierle Swyft,0
+182,Shiera Crakehall,0
+183,Simon Staunton,1
+184,Sybell Spicer,1
+185,Sybelle Glover,1
+186,Sylwa Paege,0
+187,Symond Frey,0
+188,Theodore Tyrell,1
+189,Theomar Smallwood,1
+190,Titus Peake,1
+191,Tybolt Lannister,1
+192,Tyana Wylde,0
+193,Tyrek Lannister,0
+194,Tytos Frey,1
+195,Valaena Velaryon,1
+196,Walton Frey,0
+197,Whalen Frey,1
+198,Willam Stark,1
+199,Wynafrei Whent,0
+200,Ysilla Royce,0
+201,Zhoe Blanetree,0
+202,Aegor Rivers,1
+203,Aenys Frey,1
+204,Aerion Targaryen,1
+205,Amerei Frey,1
+206,Bronn,1
+207,Cassana Estermont,0
+208,Cersei Lannister,1
+209,Doran Martell,1
+210,Edwyn Frey,0
+211,Eldon Estermont,1
+212,Ellaria Sand,0
+213,Emmon Frey,1
+214,Gilly,0
+215,Harren Hoare,0
+216,Helaena Targaryen,1
+217,Jared Frey,1
+218,Jon Bulwer,1
+219,Jorah Mormont,1
+220,Lancel Lannister,1
+221,Lollys Stokeworth,1
+222,Lynesse Hightower,0
+223,Mace Tyrell,1
+224,Marya Seaworth,1
+225,Merrett Frey,0
+226,Minisa Whent,1
+227,Mors Martell,1
+228,Nymeria,1
+229,Olenna Redwyne,1
+230,Mychel Redfort,1
+231,Orys Baratheon,1
+232,Paxter Redwyne,1
+233,Petyr Frey,0
+234,Ramsay Snow,1
+235,Randyll Tarly,1
+236,Ravella Swann,1
+237,Aegon V Targaryen,0
+238,Alannys Harlaw,1
+239,Alester Florent,1
+240,Alerie Hightower,1
+241,Asha Greyjoy,1
+242,Azor Ahai,0
+243,Balon Greyjoy,0
+244,Baelor I Targaryen,0
+245,Barbrey Dustin,1
+246,Corlys Velaryon,1
+247,Daemon I Blackfyre,1
+248,Daemon Targaryen,1
+249,Daenerys Targaryen,1
+250,Davos Seaworth,1
+251,Eddard Stark,1
+252,Edmure Tully,1
+253,Elia Martell,1
+254,Falena Stokeworth,1
+255,Eustace Osgrey,1
+256,Falyse Stokeworth,0
+257,Genna Lannister,1
+258,Garlan Tyrell,1
+259,Howland Reed,1
+260,Hoster Tully,1
+261,Illyrio Mopatis,1
+262,Jeyne Poole,0
+263,Jon Arryn,1
+264,Jon Fossoway,1
+265,Kevan Lannister,1
+266,Leyton Hightower,1
+267,Lothar Frey,1
+268,Lysa Arryn,1
+269,Mathis Rowan,1
+270,Roose Bolton,1
+271,Renly Baratheon,1
+272,Sansa Stark,1
+273,Rhaella Targaryen,1
+274,Tywin Lannister,1
+275,Steffon Baratheon,1
+276,Stevron Frey,1
+277,Victaria Tyrell,0
+278,Rickard Stark,1
+279,Visenya Targaryen,1
+280,Petyr Baelish,1
+281,Tysha,0
+282,Tyrion Lannister,1
+283,Willam Dustin,1
+284,Selyse Florent,1
+285,Damion Lannister,1
+286,Tya Lannister,0
+287,Orton Merryweather,1
+288,Rhaegar Frey,0
+289,Roslin Frey,0
+290,Robett Glover,0
+291,Taena of Myr,0
+292,Rhaelle Targaryen,1
+293,Alysanne Targaryen,0
+294,Baela Targaryen,1
+295,Joyeuse Erenford,1
+296,Tygett Lannister,1
+297,Rhaegar Targaryen,1
+298,Drogo,0
+299,Bethany Bolton,1
+300,Yandry,0
+301,Rohanne Webber,1
+302,Walder Rivers,1
+303,Laena Velaryon,0
+304,Tytos Lannister,1
+305,Rhaenyra Targaryen,0
+306,Perra Royce,1
+307,Robert Baratheon,0
+308,Myrcella Baratheon,0
+309,Kiera of Tyrosh,1
+310,Alyssa Targaryen,0
+311,Baelon Targaryen,0
+312,Jaehaerys Targaryen,0
+313,Stonetree,1
+314,Corwyn Corbray,1
+315,Bran Stark,0
+316,Arya Flint,0
+317,Myranda Lefford,1
+318,Shireen Baratheon,0
+319,Tristifer IV Mudd,0
+320,Aenys Targaryen,0
+321,Rhaena Targaryen,1
+322,Aegon Targaryen,0
+323,Mariah Martell,0
+324,Shaera Targaryen,0
+325,Arlan V Durrandon,0
+326,Jena Dondarrion,1
+327,Brandon Stark,0
+328,Rodrik Arryn,1
+329,Daenaera Velaryon,0
+330,Baelor 'Breakspear' Targaryen,0
+331,Cerissa Brax,1
+332,Ella Lannister,0
+333,Durran the Devout,0
+334,Craster,0
+335,Jenny of Oldstones,1
+336,Lady of House Sunderly,0
+337,Alysanne Farman,1
+338,Donella Manderly,1
+339,Qhorwyn Hoare,0
+340,Halleck Hoare,0
+341,Betha Blackwood,0
+342,Alyssa Velaryon,0
+343,Aemon Targaryen,0
+344,Alyn Tarbeck,1
+345,Alys Beesbury,1
+346,Lady,1
+347,Lysara Karstark,0
+348,Lorra Royce,1
+349,Geremy Frey,0
+350,Arra Norrey,1
+351,Marna Locke,1
+352,Jeyne Farman,1
+353,Johanna Lannister,1
+354,Robyn Ryswell,1
+355,Wylis Manderly,0
+356,Sigorn,0
+357,1st: unknown2nd: unknown3rd: unknown,1
+358,Longspear Ryk,0
+359,Beony Beesbury,1
+360,Myriame Manderly,1
+361,Ynys Yronwood,1
+362,Walter Whent,1
+363,Teora Kyndall,1
+364,Melantha Blackwood,1
+365,Calla Blackfyre,1
+366,Daenora Targaryen,1
+367,Mellario of Norvos,1
+368,Janyce Hunter,0
+369,Oberyn Martell,0
+370,Aegon II,1
+371,Glover,1
+372,Argella Durrandon,1
+373,Dyanna Dayne,0
+374,Maekar I Targaryen,0
+375,Theon Greyjoy,0
+376,Rohanne of Tyrosh,1
+377,Catelyn Tully,1
+378,Lucas Lothston,1
+379,Cousin to the Prince of Pentos,1
+380,Ramsay Bolton,0
+381,Jeyne Royce,1
+382,Dorna Swyft,1
+383,Bethany Ryswell,1
+384,Corenna Swann,1
+385,Lyarra Stark,1
+386,Barbrey Ryswell,1
+387,Ormund Baratheon,1
+388,Charlton,1
+389,Jeyne Marbrand,1
